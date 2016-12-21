@@ -1,7 +1,7 @@
 #Stat159-fall2016-lab2
 ***
 
-This repository contains the LAB2 material regarding basics of Shell, Markdown, Pandoc0
+This repository contains the LAB2 material regarding basics of Shell, Markdown, Pandoc
 
 #Suggested LINK
 
